@@ -8,8 +8,8 @@ The information in this readme is taken from: http://www.machineindustries.co/gu
 
 [Installing](https://github.com/CountParadox/configurator/blob/master/README.md#installing)
 
-- For macOS & Linux
-- For Windows
+- [For macOS & Linux](https://github.com/CountParadox/configurator/blob/master/README.md#for-macos--linux)
+- [For Windows](https://github.com/CountParadox/configurator/blob/master/README.md#for-windows)
 
 Overview
 
