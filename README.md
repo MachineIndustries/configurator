@@ -85,3 +85,9 @@ Continue on by pressing the HAVE DISK button. Navigate to where you extracted th
 **Step 6**
 
 [Download the latest configurator](https://github.com/MachineIndustries/configurator/releases/latest), install, open the configurator and breathe a sigh of relief, you're all done!
+
+## Overview
+
+Before we start digging in any further, here's a quick overview of the interface:
+
+![Image of configurator](http://www.machineindustries.co/uploads/guides/configurator-manual/overview.png "configurator main screen")
