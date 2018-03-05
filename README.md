@@ -22,6 +22,8 @@ Configuring a key
 - To be a macro
 - To do nothing
 
+[Overview](https://github.com/CountParadox/configurator/blob/master/README.md#overview)
+
 Macros
 
 - Overview
