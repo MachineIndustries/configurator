@@ -91,3 +91,29 @@ Continue on by pressing the HAVE DISK button. Navigate to where you extracted th
 Before we start digging in any further, here's a quick overview of the interface:
 
 ![Image of configurator](http://www.machineindustries.co/uploads/guides/configurator-manual/overview.png "configurator main screen")
+
+1. Selected board. click this to select a keyboard
+
+2. Connection status. shows the current connection status of your keyboard
+
+3. Upload button. sends your configuration up to the cloud to compile, then programs it onto your keyboard
+
+4. Save button. saves your configuration to your computer so you can edit it later
+
+5. Load button. loads an existing configuration to edit and upload
+
+6. Keys button. toggles to editing keys
+
+7. Backlight button. toggles to editing the backlight on supported boards
+
+8. Keyboard. this is the main area of the app, the keyboard. You'll spend the most time here
+
+9. Layers. used to select which layer the keyboard is showing
+
+10. Actions. used to select the action of the selected (outlined in green) key
+
+11. Close button. closes the app
+
+12. Help button. opens the configurator manual in your browser
+
+13. Version number. the version of the configurator you're running
