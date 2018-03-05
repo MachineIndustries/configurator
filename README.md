@@ -11,7 +11,7 @@ The information in this readme is taken from: http://www.machineindustries.co/gu
 - [For macOS & Linux](https://github.com/CountParadox/configurator/blob/master/README.md#for-macos--linux)
 - [For Windows](https://github.com/CountParadox/configurator/blob/master/README.md#for-windows)
 
-Overview
+[Overview](https://github.com/CountParadox/configurator/blob/master/README.md#overview)
 
 Selecting a board
 
@@ -21,8 +21,6 @@ Configuring a key
 - To be a board action
 - To be a macro
 - To do nothing
-
-[Overview](https://github.com/CountParadox/configurator/blob/master/README.md#overview)
 
 Macros
 
