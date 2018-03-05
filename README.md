@@ -6,7 +6,7 @@ The configurator is, like it's name suggests, an app for configuring keyboards, 
 
 The information in this readme is taken from: http://www.machineindustries.co/guides/configurator-manual
 
-Installing
+[Installing](https://github.com/CountParadox/configurator/blob/master/README.md#installing)
 
 - For macOS & Linux
 - For Windows
