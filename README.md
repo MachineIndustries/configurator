@@ -13,16 +13,16 @@ The information in this readme is taken from: http://www.machineindustries.co/gu
 
 [Overview](https://github.com/CountParadox/configurator/blob/master/README.md#overview)
 
-Selecting a board
+[Selecting a board](https://github.com/CountParadox/configurator/blob/master/README.md#selecting-a-board)
 
-Configuring a key
+[Configuring a key](https://github.com/CountParadox/configurator/blob/master/README.md#configuring-a-key)
 
 - To be a regular key
 - To be a board action
 - To be a macro
 - To do nothing
 
-Macros
+[Macros](https://github.com/CountParadox/configurator/blob/master/README.md#macros)
 
 - Overview
 - Add a key to a macro
@@ -130,20 +130,20 @@ Notice something missing? Yup, it's the actual keyboard. To select which keyboar
 
 ## Configuring a key
 
-- To be a regular key
+### To be a regular key
 
 Configuring a key to be a regular key, for example, that enters the letter "x" when you press it, is easy. Click the key you want to configure to highlight it. You'll see the actions menu appear at the bottom of the screen. Click the "Key" action and the key menu will slide up into view. Navigate around using the tab buttons at the top of the panel to find the key you want - in our case we'd click the "Alphabet" tab to find the "x" key. Hover over the keys to see a full explanation of what they do. Click the "x" key and the panel will slide away. Congrats, you just configured your first key!
 
 
-- To be a board action
+### To be a board action
 
 Board actions let you control your keyboard, you can use them to increase or decrease your backlight brightness, toggle between layers & to reset the keyboard for programming. Setting a board action is pretty much the same as a key action - select a key, click the "board" button in the actions menu, find the action you want (hover over the keys to see a full explanation of what they do) and click it to set it.
 
-- To be a macro
+### To be a macro
 
 Macros are super-powerful, we'll go into what they are and how to build them later, but we'll briefly touch on how to add them to a key here. Starting the same as the key and board actions, click a key on the keyboard to select it, then click the "macro" button in the actions menu. The macro panel will slide up, the same as the key and board action panels. Once you've added keys to your macro, click the "Done" button to save it to the key, otherwise click the "X" button to cancel.
 
-- To do nothing
+### To do nothing
 
 Sometimes you want a key to be lazy and do absolutely nothing. To do this, select the key by clicking it, then click the "None" button in the actions menu, you should see the key blanked out with no text inside it.
 
