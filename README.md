@@ -1,5 +1,8 @@
 # configurator
 
+## Current version: 1.1.5
+
+
 ## What does it do?
 
 The configurator is, like it's name suggests, an app for configuring keyboards, without all that messing around with firmware code. It's cross-platform, relatively lightweight, and it's built on top of the QMK firmware, which is pretty well established and tested, so the firmwares it generates are rock-solid.
