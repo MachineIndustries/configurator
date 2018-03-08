@@ -17,37 +17,37 @@ The information in this readme is taken from: http://www.machineindustries.co/gu
 
 [Configuring a key](https://github.com/CountParadox/configurator/blob/master/README.md#configuring-a-key)
 
-- To be a regular key
-- To be a board action
-- To be a macro
-- To do nothing
+- [To be a regular key](https://github.com/CountParadox/configurator/blob/master/README.md#to-be-a-regular-key)
+- [To be a board action](https://github.com/CountParadox/configurator/blob/master/README.md#to-be-a-board-action)
+- [To be a macro](https://github.com/CountParadox/configurator/blob/master/README.md#to-be-a-macro)
+- [To do nothing](https://github.com/CountParadox/configurator/blob/master/README.md#to-do-nothing)
 
 [Macros](https://github.com/CountParadox/configurator/blob/master/README.md#macros)
 
-- Overview
-- Add a key to a macro
-- Setting key up, down & type actions
-- Removing a key from the macro
-- Re-arranging a macro
-- Saving the macro
-- Cancel the macro
+- [Overview](https://github.com/CountParadox/configurator/blob/master/README.md#overview-1)
+- [Add a key to a macro](https://github.com/CountParadox/configurator/blob/master/README.md#add-a-key-to-a-macro)
+- [Setting key up, down & type actions](https://github.com/CountParadox/configurator/blob/master/README.md#setting-key-up-down--type-actions)
+- [Removing a key from the macro](https://github.com/CountParadox/configurator/blob/master/README.md#removing-a-key-from-the-macro)
+- [Re-arranging a macro](https://github.com/CountParadox/configurator/blob/master/README.md#re-arranging-a-macro)
+- [Saving the macro](https://github.com/CountParadox/configurator/blob/master/README.md#save-the-macro)
+- [Cancel the macro](https://github.com/CountParadox/configurator/blob/master/README.md#cancel-the-macro-1)
 
-Layers
+[Layers](https://github.com/CountParadox/configurator/blob/master/README.md#layers)
 
-- Overview
-- Changing layers
-- Adding keys to other layers
+- [Overview](https://github.com/CountParadox/configurator/blob/master/README.md#overview-2)
+- [Changing layers](https://github.com/CountParadox/configurator/blob/master/README.md#changing-layers)
+- [Adding keys to other layers](https://github.com/CountParadox/configurator/blob/master/README.md#adding-keys-to-other-layers)
 
-Backlighting
+[Backlighting](https://github.com/CountParadox/configurator/blob/master/README.md#backlighting)
 
-- Overview
-- Setting the backlight
+- [Overview](https://github.com/CountParadox/configurator/blob/master/README.md#overview-3)
+- [Setting the backlight](https://github.com/CountParadox/configurator/blob/master/README.md#setting-the-backlight)
 
-Saving configurations for later
+[Saving configurations for later](https://github.com/CountParadox/configurator/blob/master/README.md#saving-configurations-for-later)
 
-Loading saved configurations
+[Loading saved configurations](https://github.com/CountParadox/configurator/blob/master/README.md#loading-saved-configurations)
 
-Compiling & uploading configurations
+[Compiling & uploading configurations](https://github.com/CountParadox/configurator/blob/master/README.md#compiling--uploading-configurations-to-your-keyboard)
 
 ## Installing
 
@@ -179,7 +179,7 @@ Noticed one key out of place and want to re-order your macro? No problem, you ca
 ### Save the macro
 Once you're done builing your macro, you need to save it, otherwise you've wasted everyone's time. To save the macro, click the "Done" button in the top left hand side of the macro panel. The panel will slide away and you'll see the word "macro" in the key you added the macro to.
 
-### Save the macro
+### Cancel the macro
 Want to cancel the macro you just built? No problem, just click the "x" button in the top right of the macro panel. The panel will slide down and the key you had selected will retain it's previous configuration.
 
 ## Layers
